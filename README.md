@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mr8SPring
+- 👀 I’m interested in web and game-dev
+- 🌱 I’m currently learning Python and JavaScript 
